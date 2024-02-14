@@ -28,7 +28,7 @@ npm run start
 
 Access the GraphQL playground (http://localhost:3000/) to perform CRUD operation:
 
--Query 
+- Query: 
  To get all users
  ```bash
  {
@@ -39,7 +39,7 @@ Access the GraphQL playground (http://localhost:3000/) to perform CRUD operation
   }
 }
 ```
--Mutation
+- Mutation:
 To create new user
 ```bash
 mutation{
