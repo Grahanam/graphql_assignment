@@ -9,7 +9,7 @@ Follow these steps to get started with the project:
 
 - First Clone this Repository
 
-- Edit and Rename example.env file to .env 
+- Edit and Rename src/example.env file to .env 
 ```bash
 url=mongodb_database_url
 ```
